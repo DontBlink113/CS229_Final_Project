@@ -18,5 +18,3 @@ Test accuracy, original vs. augmented (learner-style errors):
 
 Same 512-d features for both, so the gap measures the value of spatial structure. The CNN also
 degrades less under augmentation, suggesting it learns more structural patterns.
-
-Requires CASIA-OLHWDB (Pot1.0/1.1). Stack: Python, PyTorch, NumPy.
